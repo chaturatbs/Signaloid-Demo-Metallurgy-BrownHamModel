@@ -56,7 +56,6 @@ The repository contains three different variants of a simple program implementin
 <br/>
 <br/>
 <br/>
-<br/>
 
 [^0]: Brown, L. M., and R. K. Ham. "Dislocation-particle interactions." Strengthening methods in crystals (1971): 9–135.
 [^1]: Running this example on the Signaloid C0-Cloud processor uses less than 1% of the free monthly credits on the Signaloid C0-Cloud Free Tier plan.
